@@ -16,11 +16,6 @@ The frontend is developed with Next.js, using TypeScript and various libraries f
 ## Challenges we ran into ☣️☢️⚠️
 Originally, we wanted to use an open source LLM, like LLaMa, since we were parsing through a lot of data but we quickly realized it was too inefficient, taking over 10 seconds to analyze each commit message. We also learned to use new technologies like d3.js, the github api, prisma, yeah honestly everything for me
 
-
-## Accomplishments that we're proud of 😁
-The user interface is so slay, especially the timeline page. The features work!
-
-
 ## What we learned 🧠
 Running LLMs locally saves you money, but LLMs require lots of computation (wow) and are thus very slow when running locally
 
